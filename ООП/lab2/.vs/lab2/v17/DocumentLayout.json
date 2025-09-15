@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|c:\\users\\tony_\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab2\\lab2_1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\debitaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\debitaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\creditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\creditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\BankAccount.cs",
+              "RelativeDocumentMoniker": "lab2_1\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\BankAccount.cs",
+              "RelativeToolTip": "lab2_1\\BankAccount.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:14:20.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditAccount.cs",
+              "DocumentMoniker": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\CreditAccount.cs",
+              "RelativeDocumentMoniker": "lab2_1\\CreditAccount.cs",
+              "ToolTip": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\CreditAccount.cs",
+              "RelativeToolTip": "lab2_1\\CreditAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:36:06.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DebitAccount.cs",
+              "DocumentMoniker": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\DebitAccount.cs",
+              "RelativeDocumentMoniker": "lab2_1\\DebitAccount.cs",
+              "ToolTip": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\DebitAccount.cs",
+              "RelativeToolTip": "lab2_1\\DebitAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:31:42.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\Program.cs",
+              "RelativeDocumentMoniker": "lab2_1\\Program.cs",
+              "ToolTip": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\Program.cs",
+              "RelativeToolTip": "lab2_1\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwD0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:09:48.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ATM.cs",
+              "DocumentMoniker": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\ATM.cs",
+              "RelativeDocumentMoniker": "lab2_1\\ATM.cs",
+              "ToolTip": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\ATM.cs",
+              "RelativeToolTip": "lab2_1\\ATM.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T04:13:09.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
