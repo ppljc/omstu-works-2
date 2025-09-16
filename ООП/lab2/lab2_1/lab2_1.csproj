@@ -62,9 +62,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ATM.cs" />
-    <Compile Include="BankAccount.cs" />
+    <Compile Include="Bank.cs" />
+    <Compile Include="Account.cs" />
+    <Compile Include="Card.cs" />
     <Compile Include="CreditAccount.cs" />
-    <Compile Include="CurrentAccount.cs" />
     <Compile Include="DebitAccount.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

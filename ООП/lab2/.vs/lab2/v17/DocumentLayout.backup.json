@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\",
+  "WorkspaceRootPath": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|c:\\users\\tony_\\onedrive\\\u0434\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0432\u0443\u0437 2 \u043A\u0443\u0440\u0441\\\u043E\u043E\u043F\\lab2\\lab2_1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|d:\\documents\\omstu-works-2\\\u043E\u043E\u043F\\lab2\\lab2_1\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\debitaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|d:\\documents\\omstu-works-2\\\u043E\u043E\u043F\\lab2\\lab2_1\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|d:\\documents\\omstu-works-2\\\u043E\u043E\u043F\\lab2\\lab2_1\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\bank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|d:\\documents\\omstu-works-2\\\u043E\u043E\u043F\\lab2\\lab2_1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|d:\\documents\\omstu-works-2\\\u043E\u043E\u043F\\lab2\\lab2_1\\creditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\creditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|d:\\documents\\omstu-works-2\\\u043E\u043E\u043F\\lab2\\lab2_1\\debitaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\debitaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|d:\\documents\\omstu-works-2\\\u043E\u043E\u043F\\lab2\\lab2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\creditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBD6D16D-BBF7-43FC-A1CB-905F72D37CA4}|lab2_1\\lab2_1.csproj|solutionrelative:lab2_1\\creditaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,63 +43,93 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BankAccount.cs",
-              "DocumentMoniker": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\BankAccount.cs",
-              "RelativeDocumentMoniker": "lab2_1\\BankAccount.cs",
-              "ToolTip": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\BankAccount.cs",
-              "RelativeToolTip": "lab2_1\\BankAccount.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCAAAAAQAAAAAAAAAA==",
+              "Title": "ATM.cs",
+              "DocumentMoniker": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\ATM.cs",
+              "RelativeDocumentMoniker": "lab2_1\\ATM.cs",
+              "ToolTip": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\ATM.cs",
+              "RelativeToolTip": "lab2_1\\ATM.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T04:14:20.308Z",
+              "WhenOpened": "2025-09-16T17:21:51.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\Card.cs",
+              "RelativeDocumentMoniker": "lab2_1\\Card.cs",
+              "ToolTip": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\Card.cs",
+              "RelativeToolTip": "lab2_1\\Card.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwBsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T17:12:42.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bank.cs",
+              "DocumentMoniker": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\Bank.cs",
+              "RelativeDocumentMoniker": "lab2_1\\Bank.cs",
+              "ToolTip": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\Bank.cs",
+              "RelativeToolTip": "lab2_1\\Bank.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:13:15.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Account.cs",
+              "DocumentMoniker": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\Account.cs",
+              "RelativeDocumentMoniker": "lab2_1\\Account.cs",
+              "ToolTip": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\Account.cs",
+              "RelativeToolTip": "lab2_1\\Account.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T16:13:14.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "CreditAccount.cs",
-              "DocumentMoniker": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\CreditAccount.cs",
+              "DocumentMoniker": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\CreditAccount.cs",
               "RelativeDocumentMoniker": "lab2_1\\CreditAccount.cs",
-              "ToolTip": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\CreditAccount.cs",
+              "ToolTip": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\CreditAccount.cs",
               "RelativeToolTip": "lab2_1\\CreditAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T04:36:06.677Z"
+              "WhenOpened": "2025-09-16T16:13:13.747Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "DebitAccount.cs",
-              "DocumentMoniker": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\DebitAccount.cs",
+              "DocumentMoniker": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\DebitAccount.cs",
               "RelativeDocumentMoniker": "lab2_1\\DebitAccount.cs",
-              "ToolTip": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\DebitAccount.cs",
+              "ToolTip": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\DebitAccount.cs",
               "RelativeToolTip": "lab2_1\\DebitAccount.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T04:31:42.66Z"
+              "WhenOpened": "2025-09-16T16:13:12.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\Program.cs",
+              "DocumentMoniker": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\Program.cs",
               "RelativeDocumentMoniker": "lab2_1\\Program.cs",
-              "ToolTip": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\Program.cs",
+              "ToolTip": "D:\\Documents\\omstu-works-2\\\u041E\u041E\u041F\\lab2\\lab2_1\\Program.cs",
               "RelativeToolTip": "lab2_1\\Program.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAQwD0AAABHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T04:09:48.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ATM.cs",
-              "DocumentMoniker": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\ATM.cs",
-              "RelativeDocumentMoniker": "lab2_1\\ATM.cs",
-              "ToolTip": "C:\\Users\\tony_\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\\u0412\u0423\u0417 2 \u041A\u0443\u0440\u0441\\\u041E\u041E\u041F\\lab2\\lab2_1\\ATM.cs",
-              "RelativeToolTip": "lab2_1\\ATM.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCsAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-13T04:13:09.152Z"
+              "WhenOpened": "2025-09-16T16:13:10.224Z",
+              "EditorCaption": ""
             }
           ]
         }
