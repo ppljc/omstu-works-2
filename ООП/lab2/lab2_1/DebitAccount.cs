@@ -6,23 +6,17 @@ using System.Threading.Tasks;
 
 namespace lab2_1
 {
-    sealed class DebitAccount : BankAccount
+    sealed class DebitAccount : Account
     {
+        protected override string AccountType => "Дебетовый счёт";
+
         public DebitAccount(int id, decimal balance = 0) : base(id, balance) { }
 
         public override void Withdraw(decimal amount)
         {
-            if (amount > 30000)
-            { 
-                throw new InvalidOperationException("You cannot withdraw more than 30000 one time");
-            }
             if (Balance - amount < 0)
-            {
-                throw new InvalidOperationException("You cannot go under 0 on debit account");
-            }
-
-            Balance -= amount;
-            TotalBalance -= amount;
+                throw new InvalidOperationException("Нельзя уйти в минус на дебетовом счёте.");
+            base.Withdraw(amount);
         }
     }
 }
